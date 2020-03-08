@@ -1,5 +1,5 @@
 # Criador de tabela de frequencias
-Entre com os dados no console e o algoritmo ira criar uma tabela de frequências simples (estatística) para você.
+Entre com os dados no arquivo "dados.txt" e o algoritmo ira criar uma tabela de frequências simples (estatística) para você.
 
-##### Exemplo de saida para os dados: 18 18 18 18 18 19 19 19 19 20 20 20 21 22 22 22 23 23 23 23 23
-![Sem título](https://user-images.githubusercontent.com/48874910/75478860-6811c300-597d-11ea-9148-fa66508c904a.png)
+##### Exemplo de saida para os dados: 18 18 18 18 18 19 19 19 19 20 20 20 21 22 22 22 23 23 23 23
+![Imagem do programa](https://user-images.githubusercontent.com/48874910/76155154-fa753d80-60c6-11ea-8574-b538c2fede7d.png)
